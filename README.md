@@ -31,6 +31,7 @@ B.Tech IT @ IIIT Allahabad | Software Developer | Competitive Programmer
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -54,6 +55,7 @@ B.Tech IT @ IIIT Allahabad | Software Developer | Competitive Programmer
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -61,25 +63,27 @@ B.Tech IT @ IIIT Allahabad | Software Developer | Competitive Programmer
 
 ## 🚀 Featured Projects
 
-### 🤖 SARAL
+### 📅 Automated Timetable Generator
 
-AI-powered platform designed to simplify **legal and government paperwork** using document understanding and LLMs.
+A constraint-based timetable generation system designed to automatically create conflict-free academic schedules.
 
-- 🧠 AI-powered document processing
-- 📄 Intelligent information extraction
-- 🇮🇳 Designed for Indian government and legal documents
+- 🧠 Uses **CSP, MRV and Backtracking**
+- 🏫 Handles faculty, room and section constraints
+- ⚡ Generates **50+ timetable variants**
+- ✏️ Supports drag-and-drop editing and slot locking
+- 📄 Export timetables as **PNG/PDF**
+- 🚀 Built with **React, TypeScript, Node.js and MongoDB**
 
-### 🔍 PR-Align
+### 💼 SIRT — Smart Internship & Referral Tracker
 
-Automated **Pull Request review system** focused on intelligent code analysis and reducing review overhead.
+A full-stack platform designed to help students manage internships, referrals and recruitment pipelines.
 
-- 🔎 Automated code analysis
-- 🤖 AI-assisted PR reviews
-- ⚡ Designed to improve developer productivity
-
-### 🌐 Full-Stack Development
-
-Building scalable web applications using **React, Node.js, Express.js and MongoDB**.
+- 🔐 Secure authentication with **JWT, RBAC & OAuth**
+- ⚡ Real-time pipeline updates using **Socket.io**
+- 🤖 AI-powered candidate matching and resume evaluation
+- 📊 Recruiter ranking and internship tracking
+- 📄 Multiple resume templates
+- 🗄️ Built with the **MERN Stack**
 
 ---
 
@@ -121,8 +125,4 @@ Building scalable web applications using **React, Node.js, Express.js and MongoD
 
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. 🚀</i>
 </p>
