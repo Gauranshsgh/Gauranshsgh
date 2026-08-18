@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gauransh Singhal
+9# 👋 Hi, I'm Gauransh Singhal
 
 🎓 B.Tech IT Student @ IIIT Allahabad  
 💻 Software Developer | Competitive Programmer  
@@ -74,11 +74,11 @@ Building scalable web applications using **React, Node.js, Express and MongoDB**
   <a href="https://github.com/Gauranshsg">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/gauransh-singhal-392955310>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ From [Gauranshsg](https://github.com/Gauranshsg)
+⭐ From [Gauranshsgh](https://github.com/Gauranshsgh)
