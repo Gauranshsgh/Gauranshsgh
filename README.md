@@ -1,4 +1,4 @@
-9# 👋 Hi, I'm Gauransh Singhal
+# 👋 Hi, I'm Gauransh Singhal
 
 🎓 B.Tech IT Student @ IIIT Allahabad  
 💻 Software Developer | Competitive Programmer  
